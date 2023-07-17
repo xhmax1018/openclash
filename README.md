@@ -6,7 +6,7 @@
 游戏加速，广告屏蔽规则来自[blackmatrix7](https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Clash/README.md)
 整体规则来自[ACL4SSR](https://github.com/ACL4SSR/ACL4SSR/tree/master/Clash/config)
 
-食用方法: 找到订阅转换地址链接处 config=改为配置文件地址
+食用方法: 复制配置文件地址,找到你的订阅转换地址末尾处 "config=xxxxxxxxxx"  将xxxx改为配置文件地址
 
 主机加速需设置规则到支持openclash路由器或clash允许来自局域网自行设置主机代理
 
