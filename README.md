@@ -10,4 +10,4 @@
 
 主机加速需设置规则到支持openclash路由器或clash允许来自局域网自行设置主机代理
 
-推荐[ACL4SSR](https://acl4ssr.netlify.app/)https://acl4ssr.netlify.app/在线订阅转换
+推荐[ACL4SSR](https://acl4ssr.netlify.app/)在线订阅转换
