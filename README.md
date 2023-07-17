@@ -1,4 +1,4 @@
-# openclash 自用规则
+# openclash 自用规则带游戏平台加速
 带广告屏蔽版 [Adblockplus](https://raw.githubusercontent.com/xhmax1018/openclash/main/AdblockPlus.ini)
 
 无广告屏蔽版 [Noreject](https://raw.githubusercontent.com/xhmax1018/openclash/main/NoReject.ini)
