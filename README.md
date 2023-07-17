@@ -5,4 +5,4 @@
 游戏平台加速，广告屏蔽规则来自[blackmatrix7](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash)
 整体规则来自[ACL4SSR](https://github.com/ACL4SSR/ACL4SSR/tree/master)
 
-食用方法,配置文件地址替换掉订阅转换地址末尾config=
+食用方法: 订阅转换后的地址config=改为配置文件地址
